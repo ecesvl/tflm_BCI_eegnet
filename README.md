@@ -73,3 +73,9 @@ The following resources may also be useful:
 
 1. [Pre-allocated tensors](tensorflow/lite/micro/docs/rfc/001_preallocated_tensors.md)
 1. [TensorFlow Lite for Microcontrollers Port of 16x8 Quantized Operators](tensorflow/lite/micro/docs/rfc/002_16x8_quantization_port.md)
+
+#Eces project
+# tflm_BCI_eegnet
+Tensorflow Lite Mirco Project : Brain Computer Interface on a microcontroller (e.g. STM32F746NG-Disco, Arduino Nano BLE Sense, Sparkfun Edge ...).<br/>
+Used Model is the EEGNET-Model
+
