@@ -42,7 +42,7 @@ TARGET=mbed
 # to keep the overall time low, but build everything as part of the nightly
 # builds.
 if [[ ${1} == "PRESUBMIT" ]]; then
-  PROJECTS="generate_hello_world_mbed_project generate_micro_speech_mbed_project"
+  PROJECTS="generate_hello_world_mbed_project generate_micro_speech_mbed_project generate_bci_eegnet_mbed_project"
 else
   PROJECTS=generate_projects
 fi
